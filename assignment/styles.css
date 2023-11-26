@@ -1,0 +1,26 @@
+body {
+
+    padding: 20 10;
+
+}
+
+div, h3 {
+
+margin: 20 auto;
+
+}
+
+.countryBox {
+
+    display: grid;
+
+}
+
+
+.disclaimer {
+
+    font-size: small;
+    font-style: italic;
+    color: gray;
+
+}
